@@ -1,16 +1,12 @@
 # Landing Page HTML
 
-<p align="center">
-  <img src="images/preview.png" alt="Landing Page Preview" width="80%">
-</p>
-
 Ini adalah proyek sederhana berupa landing page yang dirancang menggunakan **HTML**, **CSS**, dan **JavaScript**.  
 Landing page ini responsif dan cocok digunakan sebagai template dasar untuk website personal atau bisnis.
 
 ## 🚀 Live Demo
 
 Cobalah landing page ini secara langsung:  
-👉 <a href="[https://example.com" target="_blank](https://raw.githack.com/izulramadhan/template-optima-landingpage/master/index.html)"><strong>Live Demo</strong></a>
+👉 <a href="https://raw.githack.com/izulramadhan/template-optima-landingpage/master/index.html"><strong>Live Demo</strong></a>
 
 ---
 
